@@ -1,1 +1,1 @@
-https://TimPogoda.github.io/rsschool-cv/cv
+https://TimPogoda.github.io/rsschool-cv/
