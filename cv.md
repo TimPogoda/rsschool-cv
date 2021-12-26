@@ -1,10 +1,6 @@
 # Tim Pogoda CV
-
----
-
 ![My photo](https://avatars.githubusercontent.com/u/87191351?s=96&v=4)
-
-### Timofey Pogodin
+   ## Timofey Pogodin
 
 ### My contacts: 
 
@@ -28,8 +24,8 @@ I have basic knowledge of HTML & CSS, Git, and continue to study.
     const multiply = (a, b) => a * b
 
 ### Work experience
-- *RC operator*[^1] (work with PC), [*BMZ*](https://belsteel.com/), 2019-2022. 
-- Junior Dev, 2021 -... (project: CV).
+- *RC operator*[^1] (work with PC), [*BMZ*](https://belsteel.com/), 2019-2022 
+- Junior Dev, 2021 -... (project: [***CV***](https://TimPogoda.github.io/rsschool-cv/cv))
 ### Education
 - [*ZNMK*](https://www.zmt.by/) (technician-technologist)
 - RSchool Stage # 0 (JS)
