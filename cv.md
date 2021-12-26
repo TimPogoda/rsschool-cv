@@ -23,11 +23,11 @@ to do something useful and necessary not only for other people, but also for me.
 I have basic knowledge of HTML & CSS, Git, and continue to study.
 
 ### Code examples
-    const multiply = (a, b) => a * b
+    const multiply = (a, b) => a * b 
 
 ### Work experience
 - *RC operator*[^1] (work with PC), [**BMZ**](https://belsteel.com/), 2019-2022 
-- Junior Dev, 2021 -... (project: [***CV***](https://TimPogoda.github.io/rsschool-cv/cv))
+- Junior Dev, 2021 -... (project: [**CV**](https://TimPogoda.github.io/rsschool-cv/cv))
 
 ### Education
 - [**ZNMK**](https://www.zmt.by/) (technician-technologist)
