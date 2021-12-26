@@ -1,1 +1,1 @@
-# rsschool-cv
+https://TimPogoda.github.io/rsschool-cv/cv
