@@ -1,1 +1,114 @@
-style
+* {
+    box-sizing: border-box; 
+  }
+
+.cv {
+    width: 80%;
+    border: none;
+    text-align: center;
+    position: relative;
+    left: 10%;
+    box-shadow: 0 0 5px; rgba(0, 0, 0, 0.5)
+}
+header {
+    height: 80px;
+    background-color: rgb(212, 212, 212);
+    
+}
+
+h1 {
+    padding: 15px 5px;
+    font-family: 'Spline Sans', sans-serif;
+    font-size: 40px;
+}
+img {
+    border: none;
+    border-radius: 50%;
+    width: 100%;
+}
+.img {
+    display: inline-block;
+    position: relative;
+    width: 20%;
+    margin: 20px;
+    
+}
+.contacts {
+    display: flex;
+    position: relative;
+   margin: 5px;
+    
+}
+p {
+    padding: 5px 10px; 
+}
+.tp {
+    flex-grow: 0;
+    margin: 20px;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+}
+.box2 {
+    display: flex;
+    position: relative;
+    top: -50px;
+    text-align: left;
+    
+    
+}
+.goal {
+    padding: 10px;
+}
+.img1 {
+  width: 50px;
+  margin: 5px;
+}
+h2 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+.e1 {
+    text-align: left;
+}
+#tr {
+    border: none;
+    border-radius: 0;
+}
+footer {
+    background-color:rgb(212, 212, 212);
+    border-radius: 3px;
+}
+.footercont {
+    display: flex;
+    
+    align-items: center;
+    
+    
+}
+.ear {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.delevoper {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 10px;
+    
+}
+    
+.logors {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    padding: 10px;
+}
+    
+     
